@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/goodde.yandexturboapi/admin/turbo_production_run.php");?>

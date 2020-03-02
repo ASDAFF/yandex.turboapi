@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/yandex.turboapi/admin/turbo_production_sections_run.php");?>

@@ -1,0 +1,10 @@
+<?
+$MESS['GOODDE_TYRBO_API_TITLE'] = 'Турбо-страницы PRO';
+$MESS['GOODDE_TYRBO_API_LIST'] = 'Список RSS-каналов';
+$MESS['GOODDE_TYRBO_API_LIST_SECTIONS'] = 'Разделы';
+$MESS['GOODDE_TYRBO_API_LIST_ELEMENTS'] = 'Элементы';
+$MESS['GOODDE_TYRBO_API_TASK_LIST'] = 'RSS-загрузки';
+$MESS['GOODDE_TYRBO_API_PROFILE'] = 'XML-профили';
+$MESS['GOODDE_TYRBO_API_ADD_LINK_FALSE'] = 'Отправка false из CSV';
+$MESS['GOODDE_TYRBO_API_SETTINGS'] = 'Настройки модуля';
+?>

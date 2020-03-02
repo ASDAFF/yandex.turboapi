@@ -1,0 +1,2 @@
+<?
+/** @var array $arFields */

@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/yandex.turboapi/admin/yandex_feed_sections_edit.php");?>
